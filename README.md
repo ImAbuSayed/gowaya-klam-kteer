@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في ليلي الطويل
+> روحي تناديك بصوت أصيل
+> قلبي ينبض بالشوق الدليل
+> نار الغرام في دمي تسيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
