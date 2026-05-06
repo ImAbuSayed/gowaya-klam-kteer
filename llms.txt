@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/gowaya-klam-kteer/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Gowaya Klam Kteer](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Gowaya Klam Kteer](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
