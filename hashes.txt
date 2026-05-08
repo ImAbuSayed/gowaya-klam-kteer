@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Klam Kteer
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Klam Kteer** (gowaya-klam-kteer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:12:34.472857 | `v1` | `4feeffb563d3937b164bc455de9bba1e11a493161f7ab8d5a2c9e47928dd4471` | `3347928a7c0c022500913492af83b959226c0596fdd5d91d8b09fbedfe05265e` | `2026-05-08_gowaya-klam-kteer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
